@@ -2,6 +2,8 @@
 
 ### 표정 인식 딥러닝 모델을 통한 딥러닝 분석
 
+#### DATA
+https://www.kaggle.com/datasets/msambare/fer2013
 
 역할|참여인원
 :---:|:---:
@@ -23,8 +25,9 @@
 
 <details>
   <summary>
-    박희진(소주제)
+    박희진(활성화함수에 따른 모델 성능 차이)
   </summary>
+  
 
 </details>
 
