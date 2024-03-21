@@ -87,23 +87,28 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
 - Sigmoid
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/474acd98-5af3-4318-afcd-30be82588c8b/Untitled.png)
+![sig](https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/02765d85-9e42-4866-9234-f0f9cce18e52)
+
 
 - Softmax
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/120c967a-a5f5-4818-810e-6459c947741f/Untitled.png)
+![soft](https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/0b8821b7-d947-4cc6-95f4-85032cfdefab)
+
 
 - Relu
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/55628a5b-f016-4e05-926a-9960c049dc7a/Untitled.png)
+![relu](https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/8a7f7171-0c3c-4072-8772-a0f06c3fb78d)
+
 
 - Leaky_Relu
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/07845133-7acd-45a6-94c0-38f0340499eb/Untitled.png)
+![leaky](https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/038a1031-69f4-44f5-9b8a-2187c1626ab1)
+
 
 - Tanh
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/747cc5dd-7898-4227-89fe-fc7d9b71dc2d/Untitled.png)
+![tanh](https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/ed9e82c2-6ddb-4ab3-bbb0-5312069ab760)
+
 
 ### (6) 그래프 결과 분석
 
