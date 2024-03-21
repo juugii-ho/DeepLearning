@@ -37,7 +37,6 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
  + 추가 → 데이터가 불균형 데이터임
 
-평가지표로 acc를 사용하는 것은 부적합함 → f1 score나 recall 사용
 
 ### (2) 데이터 전처리
 
