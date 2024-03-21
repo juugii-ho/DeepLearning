@@ -114,19 +114,19 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
 - Relu와 Tanh을 제외하고 모두 과적합이 일어났다. valid_loss는 감소하다 다시 증가하는 반면 train_loss는 계속 감소하고 train_acc는 계속해서 올라갔다. valid_loss 그래프는 2차 함수의 모양을 띠었다. 반면 Relu는 에포크가 늘어남에도 불구하고 loss와 acc에 큰 변화가 없었다. Relu는 은닉층이 많아서 기울기 소실 발생 확률이 있는 경우에 효과적인 활성화함수지만 기본 모델 자체의 은닉층이 1개뿐이라 Relu의 장점과 뛰어난 성능이 두각되지 못한 것 같다. 반대로 Tanh는 기대하지 않았는데 과적합도 일어나지 않았을 뿐만 아니라 에포크가 늘어남에 따라 train_loss와 valid_loss 둘 다 줄어 들고 있었고, train_acc와 valid_acc가 늘어나고 있었다. 에포크를 더 크게 했다면 계속해서 모델 성능을 향상시켰을 것이라고 예상한다. 은닉층이 하나인 해당 모델 구조에서는 에포크를 늘인다면 가장 성능이 좋을 것으로 판단된다.
 
-### (7) 결론
-
-<img alt="Untitled (1)" src="https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/7767e68b-afee-4a58-bddb-a0adb67d7278">
-
-
-- Relu의 기울기 소실 문제를 보완한 Leaky_Relu가 검증에서 성능이 더 좋게 나왔지만 테스트를 진행해보니 Relu가 더 좋았다. 그러나 에포크를 더 늘인다 해당 모델 구조에서는 Tanh가 성능이 가장 좋을 것으로 예상된다.
-
-### (8) 예측
+### (7) 예측
 
 <img alt="Untitled" src="https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/d2ee9461-7900-4936-9d86-27e4da5e8d88">
 
 - 예측함수를 통하여 이미지를 출력하고 True값과 Predict값 출력
 - 각 모델마다 정확도 확인
+
+### (8) 결론
+
+<img alt="Untitled (1)" src="https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/7767e68b-afee-4a58-bddb-a0adb67d7278">
+
+
+- Relu의 기울기 소실 문제를 보완한 Leaky_Relu가 검증에서 성능이 더 좋게 나왔지만 테스트를 진행해보니 Relu가 더 좋았다. 그러나 에포크를 더 늘인다 해당 모델 구조에서는 Tanh가 성능이 가장 좋을 것으로 예상된다.
 
 ### (9) 피드백
 
