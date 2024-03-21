@@ -1,10 +1,10 @@
 # KDT - 5 DeepLearnig Project
 
-### 표정 인식 딥러닝 모델을 통한 딥러닝 분석
-
+## 표정 인식 딥러닝 모델을 통한 딥러닝 분석
+  
 #### DATA
 https://www.kaggle.com/datasets/msambare/fer2013
-
+  
 #### 역할분담
 
 역할|참여인원
