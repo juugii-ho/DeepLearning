@@ -117,7 +117,7 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
 ### (8) 예측
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/4f46a759-9c09-4921-b6f4-de99a4864e67/Untitled.png)
+<img width="270" alt="Untitled" src="https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/d2ee9461-7900-4936-9d86-27e4da5e8d88">
 
 - 예측함수를 통하여 이미지를 출력하고 True값과 Predict값 출력
 - 각 모델마다 정확도 확인
