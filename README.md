@@ -111,7 +111,8 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
 ### (7) 결론
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/2f08e1b7-f1a0-4456-b11b-d00dc6a01145/Untitled.png)
+<img width="312" alt="Untitled (1)" src="https://github.com/KDT-DeepLearning/DeepLearning/assets/155441547/7767e68b-afee-4a58-bddb-a0adb67d7278">
+
 
 - Relu의 기울기 소실 문제를 보완한 Leaky_Relu가 검증에서 성능이 더 좋게 나왔지만 테스트를 진행해보니 Relu가 더 좋았다. 그러나 에포크를 더 늘인다 해당 모델 구조에서는 Tanh가 성능이 가장 좋을 것으로 예상된다.
 
