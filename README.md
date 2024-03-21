@@ -5,6 +5,8 @@
 #### DATA
 https://www.kaggle.com/datasets/msambare/fer2013
 
+#### 역할분담
+
 역할|참여인원
 :---:|:---:
 자료조사 / 주제 선정 | 김규량, 박희진, 손예림, 이시명
